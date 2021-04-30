@@ -1,1 +1,1 @@
-# Study Machine Learning using google Colabratory
+Study Machine Learning using google Colabratory
